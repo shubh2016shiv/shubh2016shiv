@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
-<h3 align="center">A passionate AI Engineer with experience in software development, Database and Master's Degree in Artificial Intelligence</h3>
+<h3 align="center">I am a ML / Generative AI Engineer with MSc Degree in Artificial Intelligence specializing in Natural Language Processing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh2016shiv&label=Profile%20views&color=0e75b6&style=flat" alt="shubh2016shiv" /> </p>
 
